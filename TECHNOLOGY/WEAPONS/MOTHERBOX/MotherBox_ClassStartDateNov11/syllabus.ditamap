@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="utf-8"?><syllabus description="Syllabus for GRE Prep - In Person" title="GRE Prep - In Person" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:kaptest:names:tc:dita:xsd:syllabusMap.xsd">
+  <source name="jasper">
+    <data name="jasper-product-code" value="GRE2015"/>
+  </source>
+  <section id="studyplan" title="Study Plan">
+    <lesson id="gettingStarted" title="Get Started">
+      <assignment duration="180" format="video.atom" title="Orientation Video" uri="main/gre2015/materials/introVideos/gre15Ori" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/20c7e866-cfcd-44fc-83d6-dd3bf39dfa26">
+        <description format="text">Watch this video first to learn how to navigate your course resources.</description>
+        <source name="jasper">
+          <data name="jasper-product-code" value="GRE2015"/>
+        </source>
+      </assignment>
+      <assignment duration="13500" format="test.fulllength" title="Practice Test 1: Diagnostic Exam" uri="main/gre2015/assessments/diag/gre2015MST01" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/df2e9239-4c06-4cd5-9f7c-7c6a661d620b">
+        <description format="text">Take this Multi-Stage Test (MST) now to become familiar with the GRE, assess your baseline, and start generating your personalized study recommendations.</description>
+        <source name="jasper">
+          <data name="jasper-product-code" value="GRE2015"/>
+        </source>
+      </assignment>
+      <assignment duration="" format="link.schedule" id="schedule-your-official-test-day-experience" title="Schedule Your Official Test Day Experience" uri="/studyplan/prometric" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/5b5c3e40-74b8-4acb-83dd-f7159894cc56">
+        <description format="html"><![CDATA[
+          <p>As a Kaplan GRE student, you have the unique option to take one of your full-length practice tests at an official Prometric Testing Center. It's an unmatched opportunity to practice in the most realistic testing environment available—the actual testing center—and it's available only at Kaplan.</p>
+          <p>Register for the Official Test Day Experience now to secure your date. Ideally, plan to take the Experience a week or two before your actual GRE test date. Don't miss out on this Kaplan exclusive!</p>
+          ]]></description>
+        <source name="jasper">
+          <data name="jasper-product-code" value="GRE2015"/>
+        </source>
+      </assignment>
+      <assignment duration="" format="reading.pdf" title="Access Your eBooks and Learn About Kaplan's Higher Score Guarantee" uri="Access_eBooks_HSG.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/c313b73b-5103-43f6-8657-7d1ddc417e80">
+        <description format="text">Learn how to access the ebook versions of your course books and learn about Kaplan's Higher Score Guarantee.</description>
+        <source name="s3"/>
+      </assignment>
+      <assignment duration="" format="reading.pdf" title="GRE Vocabulary App and Flashcards" uri="How_to_Access_Your_GRE_Flashcard_App.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/73a961ca-d0e9-4b5f-886c-3383b5693315">
+        <description format="html"><![CDATA[ 
+                    
+          <p>
+            Get a head start on your Verbal performance by studying vocabulary. Read these instructions on how to access the mobile flashcard app, or download and print the PDF version 
+            <xref href="#app-and-flashcards" scope="external">
+              <u>here.</u></xref>
+          </p>]]></description>
+        <link>
+          <assignment format="reading.pdf" id="app-and-flashcards" title="GRE Vocabulary App and Flashcards" uri="GRE_Flashcards_KTP.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/e8bb1b4b-124c-43da-a450-5996f9853ab3">
+            <source name="s3"/>
+          </assignment>
+        </link>
+        <source name="s3"/>
+      </assignment>
+    </lesson>
+    <lesson title="SESSIONS">
+      <description format="text">After this session you will be able to recognize the format and structure of Problem Solving and Quantitative Comparison questions, perform the steps of the Kaplan Methods for Problem Solving and Quantitative Comparison questions, and identify opportunities to exploit Kaplan strategies such as Picking Numbers and Backsolving.</description>
+      <lessongroup type="scheduled">
+        <lesson id="quantitative1" subject="quant" subtitle="Problem Solving and Quantitative Comparison Methods and Strategies" title="Quantitative 1">
+          <description format="text">After this session you will be able to recognize the format and structure of Problem Solving and Quantitative Comparison questions, perform the steps of the Kaplan Methods for Problem Solving and Quantitative Comparison questions, and identify opportunities to exploit Kaplan strategies such as Picking Numbers and Backsolving.</description>
+          <assignmentgroup id="session" title="Class Session">
+            <assignmentgroup format="session.onsite" title="Quantitative Session 1: Introduction to Quantitative Methods and Strategies">
+              <description format="html"><![CDATA[
+                <p>For this session, you will need your Math Workbook.</p>
+                <p>If you don't have your Math Workbook, print the Quantitative Session One Course Booklet for this session.</p>
+                ]]></description>
+              <assignment duration="" format="reading.pdf" title="Quantitative Session One Course Booklet" uri="GRE_Quant_Session_1.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/61168ce0-ba30-4fe8-87a7-46042fae2b95">
+                <description format="text">This PDF has the complete session content from the Math Workbook for Quantitative Session 1.</description>
+                <source name="s3"/>
+              </assignment>
+              <assignment duration="5400" format="video.lod" title="Quantitative 1 Lesson on Demand" uri="main/gre2015/materials/lod/gre15LODMath01" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/b995ab0d-621b-470c-b646-2c15da1420c1">
+                <description format="text">This Lesson on Demand covers Quantitative Session 1: Introduction to Quantitative Methods and Strategies.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </assignmentgroup>
+          </assignmentgroup>
+          <assignmentgroup id="review" title="After Class">
+            <assignment duration="" format="link.schedule" id="schedule-official-test-day-experience" title="Schedule Your Official Test Day Experience" uri="/studyplan/prometric" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/6445546c-a099-45d4-af5c-9be4d37ba423">
+              <description format="html"><![CDATA[
+                <p>Schedule now if you haven't already done so. It's important to schedule this practice test early since it can take a few weeks to get a seat at a Prometric center.</p>
+                <p>It's also not too early to start thinking about when you would like to sit for the real GRE!</p>
+                ]]></description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <assignment duration="240" format="video.interactive" title="Quantitative 1 Wrap-Up" uri="main/gre2015/materials/wrapupVideos/gre15Vid003" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/5bda2ac5-ad2b-470c-a4f6-c9d1440b3aa1">
+              <description format="text">Review your understanding of quantitative methods and strategies taught in Quantitative Session 1.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <assignment duration="300" format="reading.pdf" title="GRE Premier Chapter 9" uri="GRE_Premier_Chapter_9.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/c6cc7bea-38da-4650-98cd-1c8df8d5d821">
+              <description format="text">This chapter introduces the Quantitative Reasoning sections on the GRE.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="900" format="reading.pdf" title="GRE Premier Chapter 11" uri="GRE_Premier_Chapter_11.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/a711db5b-5f8e-47e6-91d6-129c1c87fe78">
+              <description format="text">This chapter will help you review the Quantitative Comparison method and strategies.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="900" format="reading.pdf" title="GRE Premier Chapter 12" uri="GRE_Premier_Chapter_12.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/370bed46-2faf-4155-a646-a585df9b2288">
+              <description format="text">This chapter will help you review the Problem Solving method and strategies.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="240" format="video.atom" title="Stress Management Part 1: How to Study" uri="main/gre2015/materials/introVideos/gre15Vid001" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/f6ee0b38-d322-4eb4-83c6-83459576c8c2">
+              <description format="text">Watch this video for tips on managing stress during your GRE studies.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <additional>
+              <assignment duration="3300" format="reading.workshop" title="Problem Solving Basics Workshop" uri="main/gre2015/materials/workshops/g2psb_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/a1e5352d-ac3f-47fe-96f4-5ac07324270b">
+                <description format="text">This workshop provides guided practice with basic Problem Solving questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3300" format="reading.workshop" title="Problem Solving Intermediate Workshop" uri="main/gre2015/materials/workshops/g2psi_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/be719da4-e8d7-4378-b5df-49b9c175d8bc">
+                <description format="text">This workshop provides guided practice with medium-difficulty Problem Solving questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3300" format="reading.workshop" title="Problem Solving Challenge Workshop" uri="main/gre2015/materials/workshops/g2psc_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/d7ffc277-c5dc-4c49-b320-15479e3918e1">
+                <description format="text">This workshop provides guided practice with advanced Problem Solving questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3000" format="reading.workshop" title="Quantitative Comparisons Basics Workshop" uri="main/gre2015/materials/workshops/g2qcb_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/79785b9a-78bd-4ee1-aabd-caf9ee1946b9">
+                <description format="text">This workshop provides guided practice with basic Quantitative Comparison questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3300" format="reading.workshop" title="Quantitative Comparisons Intermediate Workshop" uri="main/gre2015/materials/workshops/g2qci_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/1bd5f4e1-957a-4680-ab5a-fb5cdc9e5b23">
+                <description format="text">This workshop provides guided practice with medium-difficulty Quantitative Comparison questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3600" format="reading.workshop" title="Quantitative Comparisons Challenge Workshop" uri="main/gre2015/materials/workshops/g2qcc_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/e91d5374-35c0-4933-9629-ff75d3165667">
+                <description format="text">This workshop provides guided practice with advanced Quantitative Comparison questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Quantitative Strategies Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizquant.mod" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/7175607a-8b71-4aa4-8554-3bea602f4a07">
+                <description format="text">Click "Start" or "Resume" to take this quiz on the strategies you learned in Quantitative Session 1. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </additional>
+          </assignmentgroup>
+          <assignmentgroup importance="practice" title="Find Recommendations &amp; Personalized Practice">
+            <assignment format="" title="Teach Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/1fc5e725-8434-4cad-8235-105ccaf0fc29">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".quantitative1"/>
+                <field name="format" value="reading.workshop"/>
+              </criteria>
+            </assignment>
+            <assignment format="" title="Test Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/d4b55e96-dac3-45fa-8d8d-682cdc745118">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".quantitative1"/>
+                <field name="format" value="test.greqbank"/>
+              </criteria>
+            </assignment>
+          </assignmentgroup>
+          <source name="kbs">
+            <data name="kbsTopicId" value="1000019442"/>
+          </source>
+        </lesson>
+        <lesson id="verbal1" subject="verbal" subtitle="Short Verbal Methods and Strategies" title="Verbal 1">
+          <description format="text">After this session you will be able to recognize the format and structure of Text Completion (TC) and Sentence Equivalence (SE) questions, perform the steps of the Kaplan Methods for TC and SE questions, identify clues in TC and SE questions to aid in making strong predictions, and identify and utilize vocabulary resources.</description>
+          <assignmentgroup id="session" title="Class Session">
+            <assignmentgroup format="session.onsite" title="Verbal Session 1: Introduction to Short Verbal">
+              <description format="html"><![CDATA[
+                <p>For this session, you will need your Verbal Workbook.</p>
+                <p>If you don't have your Verbal Workbook, print the Verbal Session One Course Booklet for this session.</p>
+                ]]></description>
+              <assignment duration="" format="reading.pdf" title="Verbal Session One Course Booklet" uri="GRE_Verbal_Session_1.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/985a8411-6183-4719-81b2-03f0d6a994f0">
+                <description format="text">This PDF has the complete session content from the Verbal Workbook for Verbal Session 1.</description>
+                <source name="s3"/>
+              </assignment>
+              <assignment duration="5400" format="video.lod" title="Verbal 1 Lesson on Demand" uri="main/gre2015/materials/lod/gre15LODVerb01" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/1b27c8e9-dfaa-45d0-8533-df6d233c8472">
+                <description format="text">This Lesson on Demand covers Verbal Session 1: Introduction to Short Verbal.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </assignmentgroup>
+          </assignmentgroup>
+          <assignmentgroup id="review" title="After Class">
+            <assignment duration="" format="link.schedule" id="official-test-day-experience" title="Schedule Your Official Test Day Experience" uri="/studyplan/prometric" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/400e623c-b87a-441a-9544-ee85e01531d6">
+              <description format="html"><![CDATA[
+                <p>Schedule now if you haven't already done so. It's important to schedule this practice test early since it can take a few weeks to get a seat at a Prometric center.</p>
+                <p>It's also not too early to start thinking about when you would like to sit for the real GRE!</p>
+                ]]></description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <assignment duration="240" format="video.interactive" title="Verbal 1 Wrap-Up" uri="main/gre2015/materials/wrapupVideos/gre15Vid007" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/548499c7-6106-4e53-b279-8464c7627a3c">
+              <description format="text">Review your understanding of methods and strategies for Short Verbal questions.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <assignment duration="1800" format="reading.pdf" title="GRE Premier Chapter 4" uri="GRE_Premier_Chapter_4.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/161fcd3f-2dab-4987-9f2b-f79559c94db8">
+              <description format="text">This chapter provides an overview of Verbal foundations including vocabulary, GRE short verbal questions, and GRE reading comprehension strategies.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="1200" format="reading.pdf" title="GRE Premier Chapter 5" uri="GRE_Premier_Chapter_5.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/644bd77e-5a5a-4e27-8c2d-e3110526306e">
+              <description format="text">Read this chapter to review the Kaplan Text Completion method and strategies.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="600" format="reading.pdf" title="GRE Premier Chapter 6" uri="GRE_Premier_Chapter_6.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/c6b401c9-fc84-4fc8-885a-6aba133cc074">
+              <description format="text">Read this chapter to review the Kaplan Sentence Equivalence method and strategies.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="240" format="video.atom" title="Stress Management Part 1: How to Study" uri="main/gre2015/materials/introVideos/gre15Vid001" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/08c5f580-8a78-4cc7-8d64-a714a0795aee">
+              <description format="text">Watch this video for tips on managing stress during your GRE studies.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <additional>
+              <assignment duration="2700" format="reading.workshop" title="Text Completion Basics Workshop" uri="main/gre2015/materials/workshops/g2txc_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/4810ac12-34bb-44b0-ac02-9ecf1779994c">
+                <description format="text">This workshop provides guided practice with basic Text Completion questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3900" format="reading.workshop" title="Text Completion Challenge Workshop" uri="main/gre2015/materials/workshops/g2sci_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/0cea202a-83a9-49d3-9195-8b53ba6f2345">
+                <description format="text">This workshop provides guided practice with advanced Text Completion questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="1800" format="reading.workshop" title="Sentence Equivalence Basics Workshop" uri="main/gre2015/materials/workshops/g2sebw_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/87b37fec-ff62-4193-93b1-6b4c9aed1573">
+                <description format="text">This workshop provides guided practice with basic Sentence Equivalence questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="2700" format="reading.workshop" title="Sentence Equivalence Challenge Workshop" uri="main/gre2015/materials/workshops/g2secw_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/8462f81f-4f5e-48ca-9b43-dc582491cacd">
+                <description format="text">This workshop provides guided practice with advanced Sentence Equivalence questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="2700" format="reading.workshop" title="Vocabulary Basics Workshop" uri="main/gre2015/materials/workshops/g2voca_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/880a2ee3-8c44-4424-8683-eb37ecac2f18">
+                <description format="text">Use this workshop to start building your GRE vocabulary.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3000" format="reading.workshop" title="Vocabulary Challenge Workshop" uri="main/gre2015/materials/workshops/g2vocb_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/3fc0bec7-85fa-4ae7-984e-a2035278cd53">
+                <description format="text">Use this workshop to continue building your GRE vocabulary.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Text Completion Basics Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quiztclow" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/0e7ad1d7-76ec-4b3b-b559-d3315fe6e0d4">
+                <description format="text">Click "Start" or "Resume" to take this quiz on basic Text Completion questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Text Completion Intermediate Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quiztcmed" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/5f192018-c626-4a89-a45a-98c4f75a9cbe">
+                <description format="text">Click "Start" or "Resume" to take this quiz on medium-difficulty Text Completion questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Text Completion Challenge Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quiztchigh" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/6d332d78-ca1c-4697-8df3-d99cb0454f37">
+                <description format="text">Click "Start" or "Resume" to take this quiz on advanced Text Completion questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Sentence Equivalence Basics Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quizselow" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/4af54ac3-c861-40da-a8e7-a07230c50aa8">
+                <description format="text">Click "Start" or "Resume" to take this quiz on basic Sentence Equivalence questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Sentence Equivalence Intermediate Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quizsemed" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/09912f71-2209-463b-809e-393df20d75b1">
+                <description format="text">Click "Start" or "Resume" to take this quiz on medium-difficulty Sentence Equivalence questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Sentence Equivalence Challenge Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quizsehigh" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/fef11c72-0ae2-4595-bbdd-a616d2d1b3b1">
+                <description format="text">Click "Start" or "Resume" to take this quiz on advanced Sentence Equivalence questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </additional>
+          </assignmentgroup>
+          <assignmentgroup importance="practice" title="Find Recommendations &amp; Personalized Practice">
+            <assignment format="" title="Teach Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/3b41b5f9-6fc9-4be2-969b-0f86f5f5c854">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".verbal1"/>
+                <field name="format" value="reading.workshop"/>
+              </criteria>
+            </assignment>
+            <assignment format="" title="Test Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/8ef226de-aaf6-453e-8a27-dedda523d805">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".verbal1"/>
+                <field name="format" value="test.greqbank"/>
+              </criteria>
+            </assignment>
+          </assignmentgroup>
+          <source name="kbs">
+            <data name="kbsTopicId" value="1000019438"/>
+          </source>
+        </lesson>
+        <lesson id="quantitative2" subject="quant" subtitle="Arithmetic and Number Properties" title="Quantitative 2">
+          <description format="text">After this session you will be able to manipulate expressions that contain fractions, exponents, and radicals and apply the fundamental rules of arithmetic and number properties.</description>
+          <assignmentgroup id="session" title="Class Session">
+            <assignmentgroup format="session.onsite" title="Quantitative 2: Arithmetic and Number Properties">
+              <description format="html"><![CDATA[
+                <p>For this session, you will need your Math Workbook.</p>
+                <p>If you don't have your Math Workbook, print the Quantitative Session Two Course Booklet for this session.</p>
+                ]]></description>
+              <assignment duration="" format="reading.pdf" title="Quantitative Session Two Course Booklet" uri="GRE_Quant_Session_2.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/fa9395e2-ed66-4e27-8494-8f85353277fe">
+                <description format="text">This PDF has the complete session content from the Math Workbook for Quantitative Session 2.</description>
+                <source name="s3"/>
+              </assignment>
+              <assignment duration="7200" format="video.lod" title="Quantitative 2 Lesson on Demand" uri="main/gre2015/materials/lod/gre15LODMath02" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/7ccbbd35-3d9a-4e70-ac6b-b56c78b1c269">
+                <description format="text">This Lesson on Demand covers Quantitative Session 2: Arithmetic and Number Properties.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </assignmentgroup>
+          </assignmentgroup>
+          <assignmentgroup id="review" title="After Class">
+            <assignment duration="300" format="video.interactive" title="Quantitative 2 Wrap-Up" uri="main/gre2015/materials/wrapupVideos/gre15Vid004" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/8d37932e-a866-4a25-b872-a7d32bbc4bc7">
+              <description format="text">Watch this video to for a brief Arithmetic and Number Properties review.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <assignment duration="1800" format="reading.pdf" title="GRE Premier Chapter 10 (Arithmetic, Number Properties)" uri="GRE_Premier_Chapter_10_Arithmetic_and_Number_Properties.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/ca96ed4f-42e4-4ecc-8ae7-e72d48c00777">
+              <description format="text">These sections will help you review Arithmetic and Number Properties.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="7200" format="reading.pdf" title="Math Workbook Chapter 6" uri="GRE_Math_Workbook_Chapter_6.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/7ab88a8b-1a8a-4571-b5cb-3d021c5eee37">
+              <description format="text">This chapter will help you review Arithmetic and Number Properties.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="60" format="video.atom" title="How to Use Quiz Bank" uri="main/gre2015/materials/introVideos/gre15Vid011" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/4a14162f-6e3f-4ce6-92b2-85f817bd2918">
+              <description format="text">Watch this video to learn to use one of your best GRE study assets, our exclusive library of over 2,000 questions.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <additional>
+              <assignment duration="4500" format="reading.workshop" title="Arithmetic Workshop" uri="main/gre2015/materials/workshops/g2aa_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/90df4daf-94f9-4a72-a19c-9566a1388529">
+                <description format="text">This workshop provides guided practice with GRE Arithmetic.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="2400" format="reading.workshop" title="Number Properties Workshop" uri="main/gre2015/materials/workshops/g2npc_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/7a838723-afcd-4646-a78e-2717a0cade03">
+                <description format="text">This workshop provides guided practice with GRE Number Properties.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3300" format="reading.workshop" title="Proportions Workshop" uri="main/gre2015/materials/workshops/g2cmf_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/9faec65c-2546-4ad4-bf85-6b941d436f83">
+                <description format="text">This workshop offers guided practice with Proportions questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Arithmetic Basics Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizarlow" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/5d35a0b3-aebf-4242-94fb-df5beb858f67">
+                <description format="text">Click "Start" or "Resume" to take this quiz on basic Arithmetic questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Arithmetic Intermediate Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizarmed" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/adabaa11-4e5e-4604-a1de-8251f865710f">
+                <description format="text">Click "Start" or "Resume" to take this quiz on medium-difficulty Arithmetic questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Arithmetic Challenge Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizarhigh" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/c24d7137-cf89-4882-b454-7c2f02638844">
+                <description format="text">Click "Start" or "Resume" to take this quiz on advanced Arithmetic questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Number Properties Basics Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quiznplow" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/bda694ab-e94a-4cc1-ab1f-b46fc1458c39">
+                <description format="text">Click "Start" or "Resume" to take this quiz on basic Number Properties questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Number Properties Intermediate Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quiznpmed" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/a3a854db-7def-4078-9b2c-9521ee9e97d8">
+                <description format="text">Click "Start" or "Resume" to take this quiz on medium-difficulty Number Properties questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Number Properties Challenge Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quiznphigh" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/64ec83ea-d7db-4109-8509-24cf00c6a230">
+                <description format="text">Click "Start" or "Resume" to take this quiz on advanced Number Properties questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Proportions Basics Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizprlow" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/d5ac464f-8bbd-4f9f-822c-2798495a9589">
+                <description format="text">Click "Start" or "Resume" to take this quiz on basic Proportions questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Proportions Intermediate Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizprmed" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/efeb4de1-5632-4aaf-bdbd-5987a0d69af4">
+                <description format="text">Click "Start" or "Resume" to take this quiz on medium-difficulty Proportions questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Proportions Challenge Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizprhigh" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/81abc237-7cab-4a73-9632-3ad64c11eaa3">
+                <description format="text">Click "Start" or "Resume" to take this quiz on advanced Proportions questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </additional>
+          </assignmentgroup>
+          <assignmentgroup importance="practice" title="Find Recommendations &amp; Personalized Practice">
+            <assignment format="" title="Teach Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/e2ad1eba-ab6b-492f-a09a-ab401903d581">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".quantitative2"/>
+                <field name="format" value="reading.workshop"/>
+              </criteria>
+            </assignment>
+            <assignment format="" title="Test Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/8ca048a9-260a-4a01-8972-c5055f696356">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".quantitative2"/>
+                <field name="format" value="test.greqbank"/>
+              </criteria>
+            </assignment>
+          </assignmentgroup>
+          <source name="kbs">
+            <data name="kbsTopicId" value="1000019443"/>
+          </source>
+        </lesson>
+        <lesson id="verbal2" subject="verbal" subtitle="Introduction to Reading Comprehension and the Argument Essay" title="Verbal 2">
+          <description format="text">After this session you will be able to recognize different types of Reading Comprehension and Reasoning questions, perform the steps of the Kaplan Method for Reading Comprehension, and plan and write a strong response for the GRE Argument Essay.</description>
+          <assignmentgroup id="session" title="Class Session">
+            <assignmentgroup format="session.onsite" title="Verbal Session 2: Short Reading Passages and the GRE Argument Essay">
+              <description format="html"><![CDATA[
+                <p>For this session, you will need your Verbal Workbook.</p>
+                <p>If you don't have your Verbal Workbook, print the Verbal Session Two Course Booklet for this session.</p>
+                ]]></description>
+              <assignment duration="" format="reading.pdf" title="Verbal Session Two Course Booklet" uri="GRE_Verbal_Session_2.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/32a5ead8-77ee-4897-bd34-fce0586d835b">
+                <description format="text">This PDF has the complete session content from the Verbal Workbook for Verbal Session 2.</description>
+                <source name="s3"/>
+              </assignment>
+              <assignment duration="7200" format="video.lod" title="Verbal 2 Lesson on Demand" uri="main/gre2015/materials/lod/gre15LODVerb02" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/a48719a3-1826-4805-a64a-a98f10b3183a">
+                <description format="text">This Lesson on Demand covers Verbal Session 2: Short Reading Passages and the GRE Argument Essay.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </assignmentgroup>
+          </assignmentgroup>
+          <assignmentgroup id="review" title="After Class">
+            <assignment duration="300" format="video.interactive" title="Verbal 2 Wrap-Up" uri="main/gre2015/materials/wrapupVideos/gre15Vid008" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/5b2bf7d2-eee4-46b8-9222-a5b517bc23a8">
+              <description format="text">Review your understanding of Reading Comprehension and Reasoning questions on the GRE.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <assignment duration="1200" format="reading.pdf" title="GRE Premier: Chapter 7" uri="GRE_Premier_Chapter_7.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/ce4504ad-edd9-4580-95b8-ffaedb1badc7">
+              <description format="text">Read this chapter for a Reading Comprehension review.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="1200" format="reading.pdf" title="GRE Premier: Chapter 18" uri="GRE_Premier_Chapter_18.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/f62bb90d-7989-4e08-8b7f-77598d52b9b9">
+              <description format="text">Read this chapter to review the Argument essay.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="60" format="video.atom" title="How to Use Quiz Bank" uri="main/gre2015/materials/introVideos/gre15Vid011" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/5b73a296-918b-4587-997b-2620dfa9421b">
+              <description format="text">Watch this video to learn to use one of your best GRE study assets, our exclusive library of over 2,000 questions.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <additional>
+              <assignment duration="1500" format="reading.workshop" title="Reasoning Basics Workshop" uri="main/gre2015/materials/workshops/gre15rwsb" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/f7b2991a-5293-46ac-ba91-eca4362e1a92">
+                <description format="text">This workshop offers guided practice with basic Reasoning questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="1500" format="reading.workshop" title="Reasoning Challenge Workshop" uri="main/gre2015/materials/workshops/gre15rwsc" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/4afe1cbe-f80d-4db4-a4ea-ebb51fd0bc9c">
+                <description format="text">This workshop offers guided practice with advanced Reasoning questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Reasoning Basics Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quizcrlow" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/e0b70ca8-bad7-4a9a-9cbe-451e841a053e">
+                <description format="text">Click "Start" or "Resume" to take this quiz on basic Reasoning questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Reasoning Intermediate Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quizcrmed" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/a203340b-ec5f-4d4b-b0c2-7d1330006464">
+                <description format="text">Click "Start" or "Resume" to take this quiz on medium-difficulty Reasoning questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Reasoning Challenge Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quizcrhigh" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/07f1e90d-f64a-441e-988f-3f5679a9da02">
+                <description format="text">Click "Start" or "Resume" to take this quiz on advanced Reasoning questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="reading.workshop" title="Analytical Writing: Analyze an Argument Workshop" uri="main/gre2015/materials/workshops/g2awa_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/d1f5397a-99b1-4953-9917-3286f34c6c09">
+                <description format="text">This workshop will help you prepare for the Argument essay.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </additional>
+          </assignmentgroup>
+          <assignmentgroup importance="practice" title="Find Recommendations &amp; Personalized Practice">
+            <assignment format="" title="Teach Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/cae52836-c8c4-4f44-8f7e-fef0eb622c88">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".verbal2"/>
+                <field name="format" value="reading.workshop"/>
+              </criteria>
+            </assignment>
+            <assignment format="" title="Test Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/ccee35ef-ceff-4a2e-9fe4-7bd05bfb5883">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".verbal2"/>
+                <field name="format" value="test.greqbank"/>
+              </criteria>
+            </assignment>
+          </assignmentgroup>
+          <source name="kbs">
+            <data name="kbsTopicId" value="1000019439"/>
+          </source>
+        </lesson>
+        <lesson id="quantitative3" subject="quant" subtitle="Algebra and Data Interpretation" title="Quantitative 3">
+          <description format="text">After this session you will be able to translate word problems into equations; isolate and solve for variables in equations, systems of equations, and inequalities; and analyze and interpret data using combinatorics, probability, statistics, graphs, and charts.</description>
+          <assignmentgroup id="session" title="Class Session">
+            <assignmentgroup format="session.onsite" title="Quantitative Session 3: Algebra and Data Interpretation">
+              <description format="html"><![CDATA[
+                <p>For this session, you will need your Math Workbook.</p>
+                <p>If you don't have your Math Workbook, print the Quantitative Session Three Course Booklet for this session.</p>
+                ]]></description>
+              <assignment duration="" format="reading.pdf" title="Quantitative Session Three Course Booklet" uri="GRE_Quant_Session_3.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/e4612d99-1661-47a7-ab8f-e11914e3a920">
+                <description format="text">This PDF has the complete session content from the Math Workbook for Quantitative Session 3.</description>
+                <source name="s3"/>
+              </assignment>
+              <assignment duration="5400" format="video.lod" title="Quantitative 3 Lesson on Demand" uri="main/gre2015/materials/lod/gre15LODMath03" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/5f435abc-2dc0-4005-a67d-524c5aed709e">
+                <description format="text">This Lesson on Demand covers Quantitative Session 3: Algebra and Data Interpretation.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </assignmentgroup>
+          </assignmentgroup>
+          <assignmentgroup id="review" title="After Class">
+            <assignment duration="420" format="video.interactive" title="Quantitative 3 Wrap-Up" uri="main/gre2015/materials/wrapupVideos/gre15Vid005" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/721b62a7-37ec-435c-ace9-b4e3b0cbeb09">
+              <description format="text">Review your understanding of Algebra and Data Interpretation questions on the GRE.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <assignment duration="1200" format="reading.pdf" title="GRE Premier: Chapter 10 (Algebra)" uri="GRE_Premier_Chapter_10_Algebra.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/c028be1a-40a1-40da-898b-b1f4a1764388">
+              <description format="text">This section will help you review GRE Algebra.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="7200" format="reading.pdf" title="Math Workbook: Chapter 7" uri="GRE_Math_Workbook_Chapter_7.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/ae1246fe-0ff6-410f-8644-a213fce6ae20">
+              <description format="text">Read this chapter to review GRE Algebra.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="3600" format="reading.pdf" title="Math Workbook: Chapter 9" uri="GRE_Math_Workbook_Chapter_9.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/f832394d-fe0d-47ed-9137-f548588e1a2f">
+              <description format="text">Read this chapter to review Data Interpretation.</description>
+              <source name="s3"/>
+            </assignment>
+            <additional>
+              <assignment duration="3000" format="reading.workshop" title="Algebra Basics Workshop" uri="main/gre2015/materials/workshops/g2ab_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/620ead44-d1d5-44c5-b88b-05f676256027">
+                <description format="text">This workshop offers guided practice with basic Algebra questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="2100" format="reading.workshop" title="Algebra Intermediate Workshop" uri="main/gre2015/materials/workshops/g2ai_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/ceb61af4-059f-4469-8ada-7aac64f16fd9">
+                <description format="text">This workshop offers guided practice with medium-difficulty Algebra questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3300" format="reading.workshop" title="Algebra Challenge Workshop" uri="main/gre2015/materials/workshops/g2ac_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/6fd50c3a-7f9c-4d3a-9fd3-df0f503a5b5a">
+                <description format="text">This workshop offers guided practice with advanced Algebra questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3000" format="reading.workshop" title="Data Interpretation Basics Workshop" uri="main/gre2015/materials/workshops/g2gbw_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/06dfc233-b28f-40ed-b0ed-53f11b596ce2">
+                <description format="text">This workshop offers guided practice with basic Data Interpretation questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="1800" format="reading.workshop" title="Data Interpretation Challenge Workshop" uri="main/gre2015/materials/workshops/g2gcw_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/b7ed82ea-edd3-434e-bcb5-30a2ed7726f9">
+                <description format="text">This workshop offers guided practice with advanced Data Interpretation questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="1200" format="reading.workshop" title="Sets and Statistics Basics Workshop" uri="main/gre2015/materials/workshops/g2sp_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/a9d72930-4eec-43da-ae91-2029d466de06">
+                <description format="text">This workshop offers guided practice with basic Sets and Statistics questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="2700" format="reading.workshop" title="Sets and Statistics Intermediate Workshop" uri="main/gre2015/materials/workshops/g2pw_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/18393cf8-eae6-4ca6-9034-997345f85118">
+                <description format="text">This workshop offers guided practice with medium-difficulty Sets and Statistics questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3300" format="reading.workshop" title="Sets and Statistics Challenge Workshop" uri="main/gre2015/materials/workshops/g2pc_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/2f28e9e4-1c28-4436-8ae2-2404287292cb">
+                <description format="text">This workshop offers guided practice with advanced Sets and Statistics questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Algebra Basics Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizallow" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/0e8a5933-7161-4d47-afef-7c1fa37d53a2">
+                <description format="text">Click "Start" or "Resume" to take this quiz on basic Algebra questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Algebra Intermediate Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizallmid" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/d6ed9a9e-f1f3-40cd-9436-9b3d1b364c11">
+                <description format="text">Click "Start" or "Resume" to take this quiz on medium-difficulty Algebra questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Algebra Challenge Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizalhigh" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/6b8b6009-34cb-490d-bd02-b3d7d6842b30">
+                <description format="text">Click "Start" or "Resume" to take this quiz on advanced Algebra questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Data Interpretation Basics Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizdilow" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/ef23155f-4c73-4b86-ac26-d1f38b5428d8">
+                <description format="text">Click "Start" or "Resume" to take this quiz on basic Data Interpretation questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Data Interpretation Intermediate Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizdimed" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/2982440d-aa78-49b2-bfaf-f9bad9d0e128">
+                <description format="text">Click "Start" or "Resume" to take this quiz on medium-difficulty Data Interpretation questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Data Interpretation Challenge Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizdohigh" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/89cd4cab-8d6e-442c-ae1e-a38e686195bc">
+                <description format="text">Click "Start" or "Resume" to take this quiz on advanced Data Interpretation questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Sets and Statistics Basics Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizsslow" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/d7cf3dad-f1d2-4e22-a9ea-e259f6a4f19c">
+                <description format="text">Click "Start" or "Resume" to take this quiz on basic Sets and Statistics questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Sets and Statistics Intermediate Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizssmed" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/94a080c8-c39f-440c-9478-911af5c8cfaf">
+                <description format="text">Click "Start" or "Resume" to take this quiz on medium-difficulty Sets and Statistics questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Sets and Statistics Challenge Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizsshigh" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/13fa5b0a-b25d-4783-91fe-ddb32703aae2">
+                <description format="text">Click "Start" or "Resume" to take this quiz on advanced Sets and Statistics questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </additional>
+          </assignmentgroup>
+          <assignmentgroup importance="practice" title="Find Recommendations &amp; Personalized Practice">
+            <assignment format="" title="Teach Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/84f60bf8-9591-4c5b-a089-2672e0544492">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".quantitative3"/>
+                <field name="format" value="reading.workshop"/>
+              </criteria>
+            </assignment>
+            <assignment format="" title="Test Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/740cf635-6891-442b-87a5-d528f454d896">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".quantitative3"/>
+                <field name="format" value="test.greqbank"/>
+              </criteria>
+            </assignment>
+          </assignmentgroup>
+          <source name="kbs">
+            <data name="kbsTopicId" value="1000019444"/>
+          </source>
+        </lesson>
+        <lesson id="verbal3" subject="verbal" subtitle="Advanced Short Verbal and Long Reading Passages" title="Verbal 3">
+          <description format="text">After this session you will be able to apply the skills learned in Verbal 1 to more difficult Text Completion and Sentence Equivalence questions and apply the Kaplan Method for Reading Comprehension to longer passages.</description>
+          <assignmentgroup id="session" title="Class Session">
+            <assignmentgroup format="session.onsite" title="Verbal Session 3: Advanced Short Verbal and Long Reading Passages">
+              <description format="html"><![CDATA[
+                <p>For this session, you will need your Verbal Workbook.</p>
+                <p>If you don't have your Verbal Workbook, print the Verbal Session Three Course Booklet for this session.</p>
+                ]]></description>
+              <assignment duration="" format="reading.pdf" title="Verbal Session Three Course Booklet" uri="GRE_Verbal_Session_3.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/74584373-b834-4822-8d7f-8ebaa08210d4">
+                <description format="text">This PDF has the complete session content from the Verbal Workbook for Verbal Session 3.</description>
+                <source name="s3"/>
+              </assignment>
+              <assignment duration="9900" format="video.lod" title="Verbal 3 Lesson on Demand" uri="main/gre2015/materials/lod/gre15LODVerb03" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/e59af110-7e00-4e2f-9f3e-31d02bb91c05">
+                <description format="text">This Lesson on Demand covers Verbal Session 3: Advanced Short Verbal and Long Reading Passages.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </assignmentgroup>
+          </assignmentgroup>
+          <assignmentgroup id="review" title="After Class">
+            <assignment duration="240" format="video.interactive" title="Verbal 3 Wrap-Up" uri="main/gre2015/materials/wrapupVideos/gre15Vid009" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/295596a8-3334-4eb6-80f8-07d4196a826b">
+              <description format="text">Review your understanding of advanced short verbal strategies on the GRE.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <assignment duration="2700" format="reading.pdf" title="Verbal Workbook: Chapter 2" uri="GRE_Verbal_Workbook_Chapter_2.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/90aa6aa3-43b5-4e2e-8032-b070dd280c03">
+              <description format="text">Read this chapter to review and practice Text Completions.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="1800" format="reading.pdf" title="Verbal Workbook: Chapter 3" uri="GRE_Verbal_Workbook_Chapter_3.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/41d9e323-0ac5-47f2-9212-6f6b264365cd">
+              <description format="text">Read this chapter to review and practice Sentence Equivalence questions.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="3600" format="reading.pdf" title="Verbal Workbook: Chapter 4" uri="GRE_Verbal_Workbook_Chapter_4.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/9c6a16a2-3db6-40c5-9792-eca8730557ee">
+              <description format="text">Read this chapter to review and practice Reading Comprehension.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="2700" format="reading.pdf" title="Verbal Workbook: Chapter 6" uri="GRE_Verbal_Workbook_Chapter_6.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/bb22ab64-c416-47a1-b9d1-49f565ab0afe">
+              <description format="text">Use this chapter to help you study vocabulary.</description>
+              <source name="s3"/>
+            </assignment>
+            <additional>
+              <assignment duration="2100" format="reading.workshop" title="Strategic Reading Workshop" uri="main/gre2015/materials/workshops/l2gcr_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/da1bed32-84fd-421c-9287-9fb7f1647b50">
+                <description format="text">This workshop offers guided Reading Comprehension practice.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="1500" format="reading.workshop" title="Reading Comprehension Basics Workshop" uri="main/gre2015/materials/workshops/gre15rcwsb" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/9c64cf83-1b2a-4ec3-8855-f6e08f05ea54">
+                <description format="text">This workshop offers guided Reading Comprehension practice.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="1800" format="reading.workshop" title="Reading Comprehension Challenge Workshop" uri="main/gre2015/materials/workshops/gre15rcwsc" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/788883a6-3c7f-4da5-90b2-35f55419763f">
+                <description format="text">This workshop offers guided practice in challenging Reading Comprehension passages.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Reading Comprehension Basics Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quizrclow" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/b7f07374-400d-4c74-ab42-d61ffd2dcf66">
+                <description format="text">Click "Start" or "Resume" to take this quiz on basic Reading Comprehension questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Reading Comprehension Intermediate Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quizrcmed" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/bdeec5b5-97c8-4ba9-906e-2843d220fa24">
+                <description format="text">Click "Start" or "Resume" to take this quiz on medium-difficulty Reading Comprehension questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Reading Comprehension Challenge Quiz" uri="main/gre2015/quizzes/verbalQuiz/gre15quizrchigh" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/57be9784-3286-42d5-9bd7-b61cb5664df3">
+                <description format="text">Click "Start" or "Resume" to take this quiz on advanced Reading Comprehension questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </additional>
+          </assignmentgroup>
+          <assignmentgroup importance="practice" title="Find Recommendations &amp; Personalized Practice">
+            <assignment format="" title="Teach Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/27ee3773-7cab-4c45-9166-b86eb848cb1c">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".verbal3"/>
+                <field name="format" value="reading.workshop"/>
+              </criteria>
+            </assignment>
+            <assignment format="" title="Test Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/3034e3c6-6e90-4d0f-a1d0-60f9b514b713">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".verbal3"/>
+                <field name="format" value="test.greqbank"/>
+              </criteria>
+            </assignment>
+          </assignmentgroup>
+          <source name="kbs">
+            <data name="kbsTopicId" value="1000019440"/>
+          </source>
+        </lesson>
+        <lesson id="quantitative4" subject="quant" subtitle="Geometry" title="Quantitative 4">
+          <description format="text">After this session you will be able to solve geometry questions containing lines, angles, polygons and circles and apply the fundamental rules of geometry to complex figures and uniform solids.</description>
+          <assignmentgroup id="session" title="Class Session">
+            <assignmentgroup format="session.onsite" title="Quantitative Session 4: Geometry">
+              <description format="html"><![CDATA[
+                <p>For this session, you will need your Math Workbook.</p>
+                <p>If you don't have your Math Workbook, print the Quantitative Session Four Course Booklet for this session.</p>
+                ]]></description>
+              <assignment duration="" format="reading.pdf" title="Quantitative Session Four Course Booklet" uri="GRE_Quant_Session_4.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/2ad51636-1ee6-41fc-a97a-fb4be728911c">
+                <description format="text">This PDF has the complete session content from the Math Workbook for Quantitative Session 4.</description>
+                <source name="s3"/>
+              </assignment>
+              <assignment duration="9900" format="video.lod" title="Quantitative 4 Lesson on Demand" uri="main/gre2015/materials/lod/gre15LODMath04" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/c381a955-1678-4ddc-a5cd-50b53896c8f0">
+                <description format="text">This Lesson on Demand covers Quantitative Session 4: Geometry.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </assignmentgroup>
+          </assignmentgroup>
+          <assignmentgroup id="review" title="After Class">
+            <assignment duration="300" format="video.interactive" title="Quantitative 4 Wrap-Up" uri="main/gre2015/materials/wrapupVideos/gre15Vid006" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/a84e6761-188e-4912-915f-97db1f7bbf98">
+              <description format="text">Review your understanding of Geometry Questions on the GRE.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <assignment duration="3600" format="reading.pdf" title="GRE Premier: Chapter 10 (Geometry)" uri="GRE_Premier_Chapter_10_Geometry.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/b4e7feac-f803-45de-a4ce-c60710e6300f">
+              <description format="text">Read this section to review Geometry.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="3600" format="reading.pdf" title="Math Workbook: Chapter 8" uri="GRE_Math_Workbook_Chapter_8.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/eb69621e-c345-4c37-adde-efe014a076dd">
+              <description format="text">Read this chapter to review Geometry.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="7200" format="reading.pdf" title="Math Workbook: Chapter 5" uri="GRE_Math_Workbook_Chapter_5.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/b2a683c7-6d84-40cb-a3d5-242bc37a06f3">
+              <description format="text">Use the question sets in this chapter, designed to mimic full GRE quantitative sections, to practice your Quantitative skills.</description>
+              <source name="s3"/>
+            </assignment>
+            <!--<assignment title="GRE Premier: Chapter 14" format="reading.pdf" uri="GRE_Premier_Chapter_14.pdf" duration="3600"><description format="text">Use the question sets in this chapter, designed to mimic full GRE quantitative sections, to practice your Quantitative skills.</description><source name="s3" /></assignment>-->
+            <additional>
+              <assignment duration="3300" format="reading.workshop" title="Geometry Basics Workshop" uri="main/gre2015/materials/workshops/g2gb_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/c0988f4d-d2f7-4b1f-a6d5-f124410c4f08">
+                <description format="text">This workshop offers guided practice in basic Geometry questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="2100" format="reading.workshop" title="Geometry Intermediate Workshop" uri="main/gre2015/materials/workshops/g2gi_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/7f651891-c7bd-4e0a-afed-64f90b3b6f25">
+                <description format="text">This workshop offers guided practice in medium-difficulty Geometry questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="3300" format="reading.workshop" title="Geometry Challenge Workshop" uri="main/gre2015/materials/workshops/g2gc_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/28d547ab-3e82-4458-bab1-cc31d538ade6">
+                <description format="text">This workshop offers guided practice in advanced Geometry questions.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="1500" format="reading.workshop" title="Advanced Math Workshop" uri="main/gre2015/materials/workshops/greTarget800mws2_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/13bca352-8ead-423f-a0ed-f2fb155e5fc1">
+                <description format="text">This workshop offers guided practice with advanced math topics.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Geometry Basics Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizgelow" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/a93e423e-bff9-4a0a-a305-f81e4db47cfd">
+                <description format="text">Click "Start" or "Resume" to take this quiz on basic Geometry questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Geometry Intermediate Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizgemed" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/6f0cea2a-5736-4431-9d68-e15863352876">
+                <description format="text">Click "Start" or "Resume" to take this quiz on medium-difficulty Geometry questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="900" format="test.greqbank" title="Geometry Challenge Quiz" uri="main/gre2015/quizzes/quantQuiz/gre15quizgehigh" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/f5fa8486-9c10-45ab-91e3-4c43439fe422">
+                <description format="text">Click "Start" or "Resume" to take this quiz on advanced Geometry questions. Once you're done, click the Quiz Bank button to create additional, customized practice sets.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </additional>
+          </assignmentgroup>
+          <assignmentgroup importance="practice" title="Find Recommendations &amp; Personalized Practice">
+            <assignment format="" title="Teach Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/b56a860b-2feb-4d0b-8128-1b83b69f5c0d">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".quantitative4"/>
+                <field name="format" value="reading.workshop"/>
+              </criteria>
+            </assignment>
+            <assignment format="" title="Test Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/dddaf220-a71a-4a38-919b-22f630ffa817">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".quantitative4"/>
+                <field name="format" value="test.greqbank"/>
+              </criteria>
+            </assignment>
+          </assignmentgroup>
+          <source name="kbs">
+            <data name="kbsTopicId" value="1000019445"/>
+          </source>
+        </lesson>
+        <lesson id="verbal4" subject="verbal" subtitle="Issue Essay and Verbal  Section Practice" title="Verbal 4">
+          <description format="text">After this session you will be able to recognize and avoid common grammatical and stylistic errors in writing and plan and write a strong response for the GRE's Issue Essay.</description>
+          <assignmentgroup id="session" title="Class Session">
+            <assignmentgroup format="session.onsite" title="Verbal Session 4: GRE Issue Essay and Verbal Section Practice">
+              <description format="html"><![CDATA[
+                <p>For this session, you will need your Verbal Workbook.</p>
+                <p>If you don't have your Verbal Workbook, print the Verbal Session Four Course Booklet for this session.</p>
+                ]]></description>
+              <assignment duration="" format="reading.pdf" title="Verbal Session Four Course Booklet" uri="GRE_Verbal_Session_4.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/5480d274-ee17-43fa-8fae-01495479cd65">
+                <description format="text">This PDF has the complete session content from the Verbal Workbook for Verbal Session 4.</description>
+                <source name="s3"/>
+              </assignment>
+              <assignment duration="6000" format="video.lod" title="Verbal 4 Lesson on Demand" uri="main/gre2015/materials/lod/gre15LODVerb04" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/8aece854-ca86-435b-9aec-fd0f603054b1">
+                <description format="text">This Lesson on Demand covers Verbal Session 4: GRE Issue Essay and Verbal Section Practice.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </assignmentgroup>
+          </assignmentgroup>
+          <assignmentgroup id="review" title="After Class">
+            <assignment duration="240" format="video.interactive" title="Verbal 4 Wrap-Up" uri="main/gre2015/materials/wrapupVideos/gre15Vid010" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/7adacf2a-ee57-4465-8be2-6dba7ba0b2da">
+              <description format="text">Review your understanding of the essay section and all Verbal question types on the GRE.</description>
+              <source name="jasper">
+                <data name="jasper-product-code" value="GRE2015"/>
+              </source>
+            </assignment>
+            <assignment duration="1200" format="reading.pdf" title="GRE Premier: Chapter 17" uri="GRE_Premier_Chapter_17.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/48b1a71b-0618-4d34-8869-d1d4bc83f38b">
+              <description format="text">Read this chapter to review and practice responding to Issue essay prompts.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="5400" format="reading.pdf" title="Verbal Workbook: Chapter 5" uri="GRE_Verbal_Workbook_Chapter_5.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/4bc2ff00-1374-46ca-ac3b-fc51fe788d22">
+              <description format="text">Use the question sets in this chapter, designed to mimic full GRE verbal sections, to practice your Verbal skills.</description>
+              <source name="s3"/>
+            </assignment>
+            <assignment duration="4500" format="reading.pdf" title="GRE Premier: Chapter 8" uri="GRE_Premier_Chapter_8.pdf" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/15ddd8eb-7f55-429d-bdc4-12dc2e700c14">
+              <description format="text">Use the question sets in this chapter, designed to mimic full GRE verbal sections, to practice your Verbal skills.</description>
+              <source name="s3"/>
+            </assignment>
+            <additional>
+              <assignment duration="3000" format="reading.workshop" title="Analytical Writing: Analyze an Issue Workshop" uri="main/gre2015/materials/workshops/g2awp_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/fc8de5ca-d33f-4f6d-8525-3bc680fec37f">
+                <description format="text">This workshop will help you prepare for the Issue essay.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="1800" format="reading.workshop" title="Analytical Writing: Writing Style Workshop" uri="main/gre2015/materials/workshops/g2awp2_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/71c33caa-a8a4-4966-ba74-de7d5f30aa00">
+                <description format="text">This workshop will help you improve your score on the Analytical Writing Assessment.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+              <assignment duration="1800" format="reading.workshop" title="Advanced Verbal Workshop" uri="main/gre2015/materials/workshops/g2swv_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/cd4740a9-1f3f-4789-836b-b6322d23c9ce">
+                <description format="text">Use this workshop to practice advanced Verbal strategies.</description>
+                <source name="jasper">
+                  <data name="jasper-product-code" value="GRE2015"/>
+                </source>
+              </assignment>
+            </additional>
+          </assignmentgroup>
+          <assignmentgroup importance="practice" title="Find Recommendations &amp; Personalized Practice">
+            <assignment format="" title="Teach Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/ab21e857-047e-4b28-a353-d0bc4e204e2d">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".verbal4"/>
+                <field name="format" value="reading.workshop"/>
+              </criteria>
+            </assignment>
+            <assignment format="" title="Test Me More" type="filter" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/92f6fd85-9424-459d-aea8-7fe397e33f78">
+              <description/>
+              <source name="filter"/>
+              <criteria>
+                <field name="lesson" value=".verbal4"/>
+                <field name="format" value="test.greqbank"/>
+              </criteria>
+            </assignment>
+          </assignmentgroup>
+          <source name="kbs">
+            <data name="kbsTopicId" value="1000019441"/>
+          </source>
+        </lesson>
+        <lesson id="mst2" subject="practice-test" subtitle="Practice Test 2" title="Practice Test 2">
+          <description format="text"/>
+          <assignment duration="13500" format="test.fulllength" title="Practice Test 2" uri="main/gre2015/assessments/pracTests/gre2015MST02" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/521e42e1-354b-430a-8700-97eec8d1a4fc">
+            <description format="text">Take this Multi-Stage Test (MST) to challenge yourself under timed conditions. Completing this test will create a fresh Performance Summary so you can gauge your strengths and weaknesses and will trigger an update to the assignments recommended for you.</description>
+            <source name="jasper">
+              <data name="jasper-product-code" value="GRE2015"/>
+            </source>
+          </assignment>
+          <source name="kbs">
+            <data name="position" value="5"/>
+          </source>
+        </lesson>
+        <lesson id="mst3" subject="practice-test" subtitle="Practice Test 3" title="Practice Test 3">
+          <description format="text"/>
+          <assignment duration="13500" format="test.fulllength" title="Practice Test 3" uri="main/gre2015/assessments/pracTests/gre2015MST03" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/6999fca6-b8f3-4f23-968c-dbabf6e46855">
+            <description format="text">Take this Multi-Stage Test (MST) to challenge yourself under timed conditions. Completing this test will create a fresh Performance Summary so you can gauge your strengths and weaknesses and will trigger an update to the assignments recommended for you.</description>
+            <source name="jasper">
+              <data name="jasper-product-code" value="GRE2015"/>
+            </source>
+          </assignment>
+          <source name="kbs">
+            <data name="position" value="8"/>
+          </source>
+        </lesson>
+        <lesson id="mst4" subject="practice-test" subtitle="Practice Test 4" title="Practice Test 4">
+          <description format="text"/>
+          <assignment duration="13500" format="test.fulllength" title="Practice Test 4" uri="main/gre2015/assessments/pracTests/gre2015MST04" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/c014cbaf-1f28-46f3-a158-0b937b8c9bce">
+            <description format="text">Take this Multi-Stage Test (MST) to challenge yourself under timed conditions. Completing this test will create a fresh Performance Summary so you can gauge your strengths and weaknesses and will trigger an update to the assignments recommended for you.</description>
+            <source name="jasper">
+              <data name="jasper-product-code" value="GRE2015"/>
+            </source>
+          </assignment>
+          <assignment duration="300" format="video.atom" title="Stress Management Part 2: The Road to Test Day" uri="main/gre2015/materials/introVideos/gre15Vid002" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/bf91d6b7-a081-4c1a-9158-211fd5499d85">
+            <description format="text">Watch this video once you have finished your classroom sessions to map the rest of your study schedule until Test Day.</description>
+            <source name="jasper">
+              <data name="jasper-product-code" value="GRE2015"/>
+            </source>
+          </assignment>
+          <source name="kbs">
+            <data name="position" value="12"/>
+          </source>
+        </lesson>
+        <lesson id="mst5" subject="practice-test" subtitle="Practice Test 5" title="Practice Test 5">
+          <description format="text"/>
+          <assignment duration="13500" format="test.fulllength" title="Practice Test 5" uri="main/gre2015/assessments/pracTests/gre2015MST05" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/e2d639b6-d27b-4bfc-984e-a05cf46ae402">
+            <description format="text">Take this Multi-Stage Test (MST) to challenge yourself under timed conditions. Completing this test will create a fresh Performance Summary so you can gauge your strengths and weaknesses and will trigger an update to the assignments recommended for you.</description>
+            <source name="jasper">
+              <data name="jasper-product-code" value="GRE2015"/>
+            </source>
+          </assignment>
+          <assignment duration="2400" format="reading.workshop" title="Graduate Admissions Workshop" uri="main/gre2015/materials/workshops/g2aw_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/9487ffae-9977-499a-9bc8-25f8da5a9d46">
+            <description format="text">Use this workshop if you have questions about how to find graduate programs of interest to you or about how to apply.</description>
+            <source name="jasper">
+              <data name="jasper-product-code" value="GRE2015"/>
+            </source>
+          </assignment>
+          <source name="kbs">
+            <data name="position" value="13"/>
+          </source>
+        </lesson>
+        <lesson id="mst6" subject="practice-test" subtitle="Practice Test 6" title="Practice Test 6">
+          <description format="text"/>
+          <assignment duration="13500" format="test.fulllength" title="Practice Test 6" uri="main/gre2015/assessments/pracTests/gre2015MST06" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/751f9986-d296-4ea8-8419-585341c39672">
+            <description format="text">Take this Multi-Stage Test (MST) to challenge yourself under timed conditions. Completing this test will create a fresh Performance Summary so you can gauge your strengths and weaknesses and will trigger an update to the assignments recommended for you.</description>
+            <source name="jasper">
+              <data name="jasper-product-code" value="GRE2015"/>
+            </source>
+          </assignment>
+          <assignment duration="" format="link.external" title="ETS PowerPrep Practice Tests" uri="https://www.ets.org/gre/revised_general/prepare/powerprep2" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/1a24b6ff-cbc5-4192-a40a-be737f166f7b">
+            <description format="html"><![CDATA[
+              <p>
+                Don't forget: once you've finished your Kaplan practice tests, there are two more available from ETS via the free 
+                <xref href="#powerprep-practice-tests" scope="external">Powerprep II</xref>
+                software.</p>]]></description>
+            <link>
+              <assignment format="link.external" id="powerprep-practice-tests" title="ETS PowerPrep Practice Tests" uri="https://www.ets.org/gre/revised_general/prepare/powerprep2" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/70eec106-c375-40b2-8e4a-019663777eb3"/>
+            </link>
+          </assignment>
+          <source name="kbs">
+            <data name="position" value="14"/>
+          </source>
+        </lesson>
+        <lesson id="mst7" subject="practice-test" subtitle="Practice Test jerry test" title="Jerry Test Pos 2">
+          <description format="text"/>
+          <assignment duration="13500" format="test.fulllength" title="Practice Test 5" uri="main/gre2015/assessments/pracTests/gre2015MST05" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/314e1ee5-2a0e-4e08-a1a9-feea6a8b1712">
+            <description format="text">Take this Multi-Stage Test (MST) to challenge yourself under timed conditions. Completing this test will create a fresh Performance Summary so you can gauge your strengths and weaknesses and will trigger an update to the assignments recommended for you.</description>
+            <source name="jasper">
+              <data name="jasper-product-code" value="GRE2015"/>
+            </source>
+          </assignment>
+          <assignment duration="2400" format="reading.workshop" title="Graduate Admissions Workshop" uri="main/gre2015/materials/workshops/g2aw_11" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/20fffd9b-b978-43b6-9074-d769dfe229dd">
+            <description format="text">Use this workshop if you have questions about how to find graduate programs of interest to you or about how to apply.</description>
+            <source name="jasper">
+              <data name="jasper-product-code" value="GRE2015"/>
+            </source>
+          </assignment>
+          <source name="kbs">
+            <data name="position" value="2"/>
+          </source>
+        </lesson>
+      </lessongroup>
+    </lesson>
+    <lesson id="prometric" title="TEST DAY EXPERIENCE">
+      <assignmentgroup format="test.fulllength" title="Official Test Day Experience">
+        <description format="html"><![CDATA[
+          <p>As a Kaplan GRE student, you have the unique option to take this full-length practice test at an official Prometric Testing Center. It's an unmatched opportunity to practice in the most realistic testing environment available—the actual testing center—and it's available exclusively at Kaplan.</p>
+          <p>If you haven't already done so, register for the Official Test Day Experience now to secure your date. Ideally, plan to take the Experience a week or two before your actual GRE. If you already scheduled your test and wish to change your appointment, use the &quot;Reschedule&quot; link. Note that it's not possible to schedule multiple appointments using the &quot;Schedule&quot; button.</p>
+          <p>
+            If you've been approved for testing accommodations by ETS, we'll do our best to replicate those during your test. Please fill out 
+            <xref href="#kaptest-form" scope="external">this form</xref>
+            to describe your accommodations so we can relay them to Prometric. Please do not schedule an appointment until you have received a response from Kaplan confirming your eligibility.</p>
+          <p>You can also choose to take this test online instead of at an official testing center, but this will mean missing the opportunity to have an Official Test Day Experience.</p>]]></description>
+        <link>
+          <assignment format="link.external" id="kaptest-form" title="Official Test Day Experience" uri="https://kaptest.formstack.com/forms/greotdeaccommodations" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/22391a82-30a2-4e24-a51e-749726cc7495"/>
+        </link>
+        <assignment duration="13500" format="test.fulllength" title="Official Test Day Experience" uri="main/gre2015/assessments/MST7/gre2015MST07" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/91945629-934c-4b25-bfed-2b30963c8a38">
+          <source name="jasper">
+            <data name="jasper-product-code" value="GRE2015"/>
+          </source>
+          <availability available="false"/>
+        </assignment>
+        <assignment duration="13500" format="test.fulllength" title="Official Test Day Experience" uri="main/gre2015/assessments/OTDE/gre2015MST07OTDE" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/fbb03f38-d6c4-438e-bb4e-982ce5c8c627">
+          <description format="html"><![CDATA[
+            <p>As a Kaplan GRE student, you have the unique option to take this full-length practice test at an official Prometric Testing Center. It's an unmatched opportunity to practice in the most realistic testing environment available—the actual testing center—and it's available exclusively at Kaplan.</p>
+            <p>If you haven't already done so, register for the Official Test Day Experience now to secure your date. Ideally, plan to take the Experience a week or two before your actual GRE. If you already scheduled your test and wish to change your appointment, use the &quot;Reschedule&quot; link. Note that it's not possible to schedule multiple appointments using the &quot;Schedule&quot; button.</p>
+            <p>
+              If you've been approved for testing accommodations by ETS, we'll do our best to replicate those during your test. Please fill out 
+              <xref href="#kaptest-form" scope="external">this form</xref>
+              to describe your accommodations so we can relay them to Prometric. Please do not schedule an appointment until you have received a response from Kaplan confirming your eligibility.</p>
+            <p>You can also choose to take this test online instead of at an official testing center, but this will mean missing the opportunity to have an Official Test Day Experience.</p>]]></description>
+          <link>
+            <assignment format="link.external" id="kaptest-form" title="Official Test Day Experience" uri="https://kaptest.formstack.com/forms/greotdeaccommodations" atomId="WAYNENTERPRISE/TECHNOLOGY/WEAPONS/MOTHERBOX/MotherBox_ClassStartDateNov11/7eb0f0a6-aeb2-41ca-b781-2cb5e726811e"/>
+          </link>
+          <source name="Prometric"/>
+          <source name="jasper">
+            <data name="jasper-product-code" value="GRE2015"/>
+          </source>
+          <availability available="false"/>
+        </assignment>
+      </assignmentgroup>
+    </lesson>
+  </section>
+  <section id="applications" title="Applications">
+    <application id="greQbank" title="GRE QBank"/>
+  </section>
+</syllabus>
